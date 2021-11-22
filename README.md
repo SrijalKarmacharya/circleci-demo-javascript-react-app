@@ -4,7 +4,7 @@ We maintain a reference JavaScript Node.js project to show how to build an Expre
 [Demo JavaScript Node Project building on CircleCI](https://app.circleci.com/pipelines/github/CircleCI-Public/circleci-demo-javascript-react-app)
 
 In the project you will find a CircleCI configuration file .circleci/config.yml. This file shows best practice for using version 2.1 config with Node projects.
-Build the Demo JavaScript Node Project Yourself
+Build the Demo JavaScript Node Project Yourself.
 A good way to start using CircleCI is to build a project yourself. Here’s how to build the demo project with your own account:
 Fork the project on GitHub to your own account.
 Go to the Add Projects page in the CircleCI application and click the Set Up Project button next to the project you just forked.
